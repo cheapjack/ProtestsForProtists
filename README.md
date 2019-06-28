@@ -1,6 +1,6 @@
 # ProtestsForProtists
 
-<img src="images/protisttrap.jpg">
+<img src="images/protistcount.jpg">
 
 Instructions and makefiles for the [ProtestsForProtists](https://lpoolmakefest.org/portfolio/domestic-science-protests-for-protists/) event by [Domestic Science](https://domesticscience.org.uk)
 
