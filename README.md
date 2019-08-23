@@ -37,8 +37,7 @@ Streaming as and when wifi allows on the [CriticalKits Twitch Stream](https://tw
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Haemocytometer_Grid.png/240px-Haemocytometer_Grid.png">
 
 The classic method of counting organisms can be found on the [Hemocytometer wikipedia page](https://en.wikipedia.org/wiki/Hemocytometer) but there's a really good guide with a free app & in-browser calculator made by Chemical Engineer Maria Fuentes here: [HemocyTap](https://www.hemocytometer.org/hemocytometer-calculator/)
-***
-
+```
 Example counting
 
 cells/ml = ((entities counted) x (dilution factor))/((number of squares counted) x (vol of square)) * 1000
@@ -46,4 +45,17 @@ cells/ml = ((entities counted) x (dilution factor))/((number of squares counted)
 cells/ml = ((47 x 1)/(4 x 0.000004)) * 1000
 
 Concentration per ml. = **2.937 x 10<sup>-6**
-***
+```
+
+
+## Worm Breeders of the world Unite and Take Over
+
+### Nematode Death Disco
+
+We took this project further for a DomesticScience golf hole at FON Festival 2019 [BlackBoxGolf](https://github.com.cheapjack/BlackBoxGolf).
+
+Here we used PDMS microfluidics moulded from old vinyl records, a technique for model organism observation developed by microbiologist, biotechnologist and engineer [Alexandre Benedetto](https://www.lancaster.ac.uk/health-and-medicine/about-us/people/alexandre-benedetto) inspired by an article in [The Worm Breeders Gazette](http://wbg.wormbook.org/2017/07/18/immobilizing-nematodes-for-live-imaging-using-an-agarose-pad-generated-with-a-vinyl-record/)
+
+Alex's students are using the environments to observe nematode bio-flourescence death process'. We imagined the bio-flourescence as the disco lights of death, so it would make sense to make our microfluidics from a disco record. 
+
+
